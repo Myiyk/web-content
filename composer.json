@@ -1,0 +1,14 @@
+{
+    "require": {
+        "nette/tester": "^1.7",
+        "latte/latte": "2.3.*",
+        "nette/utils": "2.3.*",
+        "nette/finder": "2.3.*",
+        "nette/forms": "2.3.*",
+        "nette/application": "2.3.*",
+        "nette/caching": "2.3.*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
