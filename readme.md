@@ -1,6 +1,12 @@
 Tester of documentation
 =======================
 
+Install
+------------
+
+Clone this project `git clone -b tester https://github.com/Myiyk/web-content.git tester` and install composer dependencies `composer update`
+
+
 How to use
 ----------
 
